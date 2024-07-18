@@ -1,4 +1,4 @@
-ey Folks !! 
+Hey Folks !! 
 
 This project mainly aims for recognise Indian places with Natural language sentence (Spacy Library) 
 
